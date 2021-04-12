@@ -215,6 +215,7 @@ dependencies:
   - pep8=1.7.1=py37_0
   - pexpect=4.8.0=py37_0
   - pickleshare=0.7.5=py37_0
+  - pip
   - pillow=7.0.0=py37hcc1f983_0
   - pkginfo=1.5.0.1=py37_0
   - pluggy=0.13.1=py37_0

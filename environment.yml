@@ -11,4 +11,8 @@ dependencies:
   - scikit-learn
   - numba
   - statsmodels
+  - pip
+  - pip:
+    - geostatspy
+
 prefix: C:\Users\17137\anaconda3\envs\basic_env

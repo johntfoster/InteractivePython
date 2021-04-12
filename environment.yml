@@ -9,4 +9,6 @@ dependencies:
   - ipywidgets
   - pandas
   - scikit-learn
+  - numba
+  - statsmodels
 prefix: C:\Users\17137\anaconda3\envs\basic_env
